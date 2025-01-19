@@ -1,4 +1,4 @@
-# OCR Lista Escolar
+# OCR Lista Escolar e Lista de Compras
 
 Projeto usado para exemplificar o uso do [AWS Textract](https://docs.aws.amazon.com/pt_br/textract/latest/dg/API_DetectDocumentText.html) na extração de textos em imagens simples.
 
